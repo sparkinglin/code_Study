@@ -1,0 +1,1 @@
+function test(arr1,arr2){}
