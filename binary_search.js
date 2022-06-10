@@ -1,7 +1,7 @@
 function binary_search(nums,n) {  //
     console.log("ori = " + nums);
     let min=0
-    let max = nums.length -1
+    let max = nums.length -1   
   
     while (min<=max){
         let i=0;
