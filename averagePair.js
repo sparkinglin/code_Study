@@ -7,7 +7,7 @@ let result=[];
        if ((arr1[i]+arr1[j])/2==avg){
         result.push([arr1[i],arr1[j]]);
 
-       }
+       }   
 
        }
        
